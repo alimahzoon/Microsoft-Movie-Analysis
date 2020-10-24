@@ -32,29 +32,29 @@ Microsoft wants to get in on the fun by deciding to create a new movie studio, b
 ### Findings
 In our dataset there were a lot of movies from 1915 to 2020 with a large number of companies, So we decided to narrow it down to 2015 to 2020. now we can find out Our most profitable companies in a more comprehensive way.
 
-![PComp_profit](/Users/Ali/Downloads/PComp_Profit_Bar.png "Profitable Companies")
+![PComp_profit](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/PComp_Profit_Bar.png "Profitable Companies")
 
 ---
 
 Based on our hypothesis popularity is an important factor among movies that every company should take into consideration. However, calculation says something different.
 
- ![Corr_pcomp_pop](/Users/Ali/Downloads/Profit+Pop_Scatter.png "Correlation between most profitable companies and popularity of movies")
+ ![Corr_pcomp_pop](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/Profit%2BPop_Scatter.png "Correlation between most profitable companies and popularity of movies")
 
  ---
 
  Genres also play a vital role in movie industry. By all respect to all genres, and based on our at-hand data, most popular genres are visualized like this.
 
- ![Popular_genres](/Users/Ali/Downloads/I2.png "Popular Genres")
+ ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/I2.png "Popular Genres")
 
 ---
 Based on the summation of profit of each genre we can calculate the most profitable genres. And again these Statistics are based on our at-hand data.
 
-![Popular_genres](/Users/Ali/Downloads/I1.png "Profitable Genres")
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/I1.png "Profitable Genres")
 
 ---
 We dug a little deeper and find out about the strong positive correlation between popularity and profitability in genres. (the exact number is .92)
 
-![Popular_genres](/Users/Ali/Downloads/I3.png "Correlation between Profit and popularity")
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/I3.png "Correlation between Profit and popularity")
 
 ---
 Market is another major factor for this business being successful. Domestic, foreign, and worldwide markets all are important for all companies around the world. Profitability of global markets by country from 2015 to 2020 is categorized like the following picture, as we can see U.S.A has the largest share among all other countries.
@@ -64,21 +64,21 @@ Market is another major factor for this business being successful. Domestic, for
 
 To have a better understanding of other shares all over the world let's visualize the above plot as follows.
 
-![Popular_genres](/Users/Ali/Downloads/55.png "Profitability of global markets by country from 2015 to 2020 except USA")
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/55.png "Profitability of global markets by country from 2015 to 2020 except USA")
 
 
 As we can see China is a large market. Moreover, Taiwan, and Hong Kong are within the top markets as well, so let's combine them under the column 'Greater China'.
 
-![Popular_genres](/Users/Ali/Downloads/66.png "Profitability of global markets by country from 2015 to 2020 except USA ")
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/66.png "Profitability of global markets by country from 2015 to 2020 except USA ")
 
 This is the most profitable country after the countries that their native language is English. so observing its profit during the last three decades must be interesting.
 
- ![Popular_genres](/Users/Ali/Downloads/77.png "Profitability of global markets by country from 2015 to 2020 except USA ")
+ ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/77.png "Profitability of global markets by country from 2015 to 2020 except USA ")
 
  ---
  And last but not least, let's study the most profitable month in the year to realize what periods of the year are more profitable to release a movie.
 
-![Popular_genres](/Users/Ali/Downloads/MY.png "Profitability of global markets by country from 2015 to 2020 except USA ")
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/MY.png "Profitability of global markets by country from 2015 to 2020 except USA ")
 
 ---
 ### recommendations
