@@ -59,7 +59,7 @@ We dug a little deeper and find out about the strong positive correlation betwee
 ---
 Market is another major factor for this business being successful. Domestic, foreign, and worldwide markets all are important for all companies around the world. Profitability of global markets by country from 2015 to 2020 is categorized like the following picture, as we can see U.S.A has the largest share among all other countries.
 
-![Popular_genres](/Users/Ali/Downloads/44.png "Profitability of global markets by country from 2015 to 2020")
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/44.png "Profitability of global markets by country from 2015 to 2020")
 
 
 To have a better understanding of other shares all over the world let's visualize the above plot as follows.
