@@ -81,5 +81,5 @@ This is the most profitable market after the English-speaking countries. Conside
 ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/MY.png "Profitability of global markets by country from 2015 to 2020 except USA ")
 
 ---
-### recommendations
+### Recommendations
 We recommend that Microsfot leverages key studio partnerships specializing in action and light-hearted animation to produce Holiday-timed releases using Microsoft’s in-house Xbox Game Studios content to create films using our unique selling position.
