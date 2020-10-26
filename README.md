@@ -76,6 +76,39 @@ This is the most profitable market after the English-speaking countries. Conside
  ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/77.png "Profitability of global markets by country from 2015 to 2020 except USA ")
 
  ---
+ And last but not least, let's study the profitability of months to see what time periods are most profitable for movie releases in the last decade from 2010 to 2019.
+
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/MY.png "Profitability of global markets by country from 2015 to 2020 except USA ")
+
+---
+### Recommendations
+We recommend that Microsfot leverages key studio partnerships specializing in action and light-hearted animation to produce Holiday-timed releases using Microsoft’s in-house Xbox Game Studios content to create films using our unique selling position.
+
+---
+We dug a little deeper and found a strong positive correlation between popularity and profitability in genres. (the exact number is R^2 = .92)
+
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/I3.png "Correlation between Profit and popularity")
+
+---
+Market is another major factor for the success of this endeavor. Domestic and foreign markets is an important consideration in an increasingly global civilization. Profitability of global markets by country from 2015 to 2020 is displayed in the following picture. We see U.S.A has the largest share of profitability compared to all other countries.
+
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/44.png "Profitability of global markets by country from 2015 to 2020")
+
+
+To have a better understanding of shares all over the world let's look a plot excluding the U.S.A.
+
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/55.png "Profitability of global markets by country from 2015 to 2020 except USA")
+
+
+As we can see, China is a large market. Moreover, Taiwan, and Hong Kong are within the top markets as well, so let's combine them under the column 'Greater China'.
+
+![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/66.png "Profitability of global markets by country from 2015 to 2020 except USA ")
+
+This is the most profitable market after the English-speaking countries. Considering the rapid growth of these three nations, observing its profit during the last three decades could be interesting.
+
+ ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/77.png "Profitability of global markets by country from 2015 to 2020 except USA ")
+
+ ---
  And last but not least, let's study the profitability of months to see what time periods are most profitable for movie releases.
 
 ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/MY.png "Profitability of global markets by country from 2015 to 2020 except USA ")
