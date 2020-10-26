@@ -76,7 +76,7 @@ This is the most profitable market after the English-speaking countries. Conside
  ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/77.png "Profitability of global markets by country from 2015 to 2020 except USA ")
 
  ---
- And last but not least, let's study the profitability of months to see what time periods are most profitable for movie releases.
+ And last but not least, let's study the profitability of months to see what time periods are most profitable for movie releases in the last decade from 2010 to 2019.
 
 ![Popular_genres](https://github.com/alimahzoon/Microsoft-Movie-Analysis/blob/Ali-wip/IMGS/MY.png "Profitability of global markets by country from 2015 to 2020 except USA ")
 
